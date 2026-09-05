@@ -27,12 +27,4 @@ dengan format asli tetap terjaga.
 
 ## 🚀 Cara menjalankan
 
-Tidak perlu install apa pun. Pilih salah satu:
-
-1. **Langsung** — buka `penilaian-mahasiswa/index.html` di browser
-   (butuh internet sekali untuk memuat library CDN).
-2. **Local server** (opsional):
-   ```bash
-   cd penilaian-mahasiswa
-   python -m http.server 8000
-   # buka http://localhost:8000
+Akses website berikut : https://namiemi.github.io/Grading-Students_Exams/
